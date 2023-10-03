@@ -1,2 +1,2 @@
 # Landing-page
-Thia is just a basic landing page.
+This is just a basic landing page.
